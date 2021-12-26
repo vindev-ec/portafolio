@@ -441,7 +441,7 @@ h3.my-profession
 {
     line-height: 40px;
     font-weight: 600;
-    font-size: 13px;
+    font-size: 11px;
     color: var(--text-black-900);
     text-transform: capitalize;
 }
